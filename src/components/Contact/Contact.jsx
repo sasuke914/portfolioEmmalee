@@ -97,7 +97,7 @@ const Contact = ({ data, socialData }) => {
                 </div>
                 <div className="st-single-info-details">
                   <h4>Address</h4>
-                  <span>2Amherstview, ON K7N 1R4, Canada</span>
+                  <span>Amherstview, Ontario, Canada</span>
                 </div>
               </div>
               <div className="st-social-info">
