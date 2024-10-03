@@ -106,7 +106,7 @@
         "delay": "300"
       },
       {
-        "title": "MongoDM",
+        "title": "MongoDB",
         "progress": "90%",
         "effect": "fade-up",
         "duration": "500",
