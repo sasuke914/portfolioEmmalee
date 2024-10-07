@@ -24,8 +24,8 @@ const Contact = ({ data, socialData }) => {
     e.preventDefault();
 
     emailjs.send(
-      'service_fefp0nd', // Replace with your EmailJS service ID
-      'template_nz2vteg', // Replace with your EmailJS template ID
+      'service_mo7co5i', // Replace with your EmailJS service ID
+      'template_wbnogmd', // Replace with your EmailJS template ID
       {
         from_name: sendData.name,
         from_email: sendData.email,
