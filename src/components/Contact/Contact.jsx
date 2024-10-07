@@ -78,7 +78,7 @@ const Contact = ({ data, socialData }) => {
                 </div>
                 <div className="st-single-info-details">
                   <h4>Email</h4>
-                  <Link >emmaleebonderud@gmail.com</Link>
+                  <Link >swiftcodex0325@outlook.com</Link>
 
                 </div>
               </div>
