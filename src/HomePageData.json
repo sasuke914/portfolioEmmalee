@@ -11,7 +11,7 @@
     "cvPdf": "/images/Resume.pdf",
     "title": "Hi There! I'm Emmalee Bonderud",
     "subtitle": "Full-Stack Developer",
-    "text": "I am a passionate Full Stack Developer with over 7 years of experience in building and optimizing web applications. My expertise lies in both front-end and back-end development, allowing me to create comprehensive solutions that provide seamless user experiences. I am skilled in a variety of technologies, including JavaScript, React, Node.js, and MongoDB. I thrive on using these tools to develop responsive and dynamic web applications that not only meet client needs but also enhance user engagement. My approach is centered on writing clean, efficient code and implementing best practices in software development. Looking ahead, I aim to deepen my expertise in cloud computing and explore emerging technologies that can further improve application performance and user experience. I’m excited about the potential of technology to solve real-world problems and am eager to be part of innovative projects that drive change.",
+    "text": "Dynamic and innovative Full Stack Developer with over 9 years of experience in designing and deploying scalable SaaS, B2B platforms, and web applications. Adept at leveraging a broad tech stack, including JavaScript, TypeScript, Python, Java, and cloud platforms like AWS, Azure, and GCP, to build highly responsive and secure applications. Expert in both frontend and backend development with advanced skills in modern frameworks such as React, Angular, Django, and Spring Boot.",
     "details": [
       {
         "title": "Gender",
@@ -27,7 +27,7 @@
       },
       {
         "title": "Email",
-        "info": "swiftcodex0325@outlook.com"
+        "info": "emmaleebonderud@gmail.com"
       },
       {
         "title": "Language",
@@ -343,36 +343,30 @@
     "experience": [
       {
         "title": "Full Stack Developer",
-        "duration": "Jan 2020 – Apr 2024",
-        "subTitle": "Bitswift Technology Solutions",
+        "duration": "Sep 2022 – July 2024",
+        "subTitle": "Zennaxx Technology",
         "text": "(Kingston, ON, Canada)"
       },
       {
         "title": "Full Stack Developer",
-        "duration": "Oct 2018 - Dec 2019",
-        "subTitle": "Kingston Information Technologies Ltd",
+        "duration": "Jun 2020 - Sep 2022",
+        "subTitle": "RipenApps",
         "text": "(Kingston, ON, Canada)"
       },
       {
-        "title": "Junior Full Stack Developer",
-        "duration": "Jun 2016- Sep 2018",
-        "subTitle": "Limestone Technologies Inc",
+        "title": "Full Stack Developer",
+        "duration": "Apr 2016- May 2020",
+        "subTitle": "GrowthKings",
         "text": "(Kingston, ON, Canada)"
       }
     ],
     "educationTitle": "Education",
     "education": [
       {
-        "title": "Master's Degree - Computer Science ",
-        "duration": "2012 - 2016",
-        "subTitle": "CLI(Career Learning Institute) College Hamilton",
+        "title": "Bachelor's Degree, Information Technology",
+        "duration": "",
+        "subTitle": "Queen’s University",
         "text": "(25 Main St W Unit 1215, Hamilton, ON, Canada)"
-      },
-      {
-        "title": "Bachelor's Degree - Computer Science",
-        "duration": "2008 - 2012",
-        "subTitle": "St. Lawrence College",
-        "text": "(100 Portsmouth Ave, Kingston, ON, Canada)"
       }
     ]
   },
